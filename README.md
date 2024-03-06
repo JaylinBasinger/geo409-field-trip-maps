@@ -1,2 +1,11 @@
-# geo409-field-trip-maps
-Maps to use during the campus field trip.
+# GEO409 Field Trip Maps
+Maps for field trip to measure tree canopy
+
+![Kentucky Counties](Ky-landcover.jpg)   
+Kentucky counties with selected land cover types – [Download geospatial PDF](Ky-landcover.pdf)
+
+![UKy Campus canopy model](tree-canopy.jpg)   
+UKy central campus canopy model – [Download geospatial PDF](tree-canopy.pdf)
+
+Maps created by Jaylin Basinger for GEO409, Spring 2024, University of Kentucky Department of Geography
+
